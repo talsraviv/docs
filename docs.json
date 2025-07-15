@@ -1,7 +1,19 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "linden",
-  "name": "Mint Starter Kit",
+  "name": "Tal Raviv - AI for Product Managers",
+  "fonts": {
+    "family": "Google Sans",
+    "weight": 400,
+    "heading": {
+      "family": "Google Sans",
+      "weight": 600
+    },
+    "body": {
+      "family": "Google Sans", 
+      "weight": 400
+    }
+  },
   "colors": {
     "primary": "#16A34A",
     "light": "#07C983",
