@@ -1,0 +1,24 @@
+{
+  "name": "mintlify-site",
+  "version": "1.0.0",
+  "description": "Click on `Use this template` to copy the Mintlify starter kit. The starter kit contains examples including",
+  "main": "index.js",
+  "scripts": {
+    "dev": "mint dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/talsraviv/docs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/talsraviv/docs/issues"
+  },
+  "homepage": "https://github.com/talsraviv/docs#readme",
+  "dependencies": {
+    "mint": "^4.2.15"
+  }
+}
